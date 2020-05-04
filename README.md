@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+##Welcome to use our software
+#####With o!TV you can watch live TV channels from your IPTV provider on tablets and smartphones.
+##### Main features:
+#####• Modern user interface designed for big screens
+#####• Support for multiple playlists
+#####• Favorite channels
+#####• Search
+#####• Ad free
+#####• and much more
+####• "Full version" can adds extra features
 
-You can use the [editor on GitHub](https://github.com/newiptv/newiptv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+####IMPORTANT!  o!TV doesn't provide any TV sources. You need to add a playlist from your IPTV provider to be able to watch live TV channels.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###. IPTV
+####Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks. This is in contrast to delivery through traditional terrestrial, satellite, and cable television formats. Unlike downloaded media, IPTV offers the ability to stream the source media continuously. As a result, a client media player can begin playing the content (such as a TV channel) almost immediately. This is known as streaming media.
 
-### Markdown
+###.M3U
+####M3U is a computer file format for a multimedia playlist. One common use of the M3U file format is creating a single-entry playlist file pointing to a stream on the Internet. The created file provides easy access to that stream and is often used in downloads from a website, for emailing, and for listening to Internet radio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newiptv/newiptv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###.o!TV
+#### With o!TV you can watch live TV channels from your IPTV provider on tablets and smartphones.
+####o!TV is empty shells It can’t stream any content without some user input. You have the responsibility for adding channels, playlists, and other sources.
+####o!TV  supports M3U playlists (XSPF Playlist Format maybe support later).
+#### Adding new content to o!TV is easy. You can touch add button to add playlist and also you can import from M3U document
+####o!TV  supports  lets you add favorites list
